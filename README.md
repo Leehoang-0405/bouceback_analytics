@@ -22,8 +22,8 @@ The existing "Bounceback" campaign relied on a fixed multiplier model. Regardles
 
 ---
 
-## 🛠 My Analytical Intervention
-I transitioned the decision-making process from a simple rule-of-thumb to a **behavior-anchored predictive system.**
+## Analytical Intervention
+The decision-making process is transitioned from a simple rule-of-thumb to a **behavior-anchored predictive system.**
 
 | Feature | Old Logic (Multiplier-Based) | New Logic (Behavior-Based) |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ This project highlights a "Decision-First" approach to analytics. Instead of sim
 
 ---
 
-## 👥 Project Context & Credits
+## Project Context & Credits
 * **Client:** World Vision Australia
 * **Team Members:** Ba Huy Hoang Le, Amey Bimal Shah, Nandhini Karunakaran, Shriya Deepak Bhandare, Sreya Mangatt, Aleena Sabastian.
 
